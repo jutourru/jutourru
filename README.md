@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jutourru
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on web scraping
+- 💞️ I’m looking to collaborate data governance
 - 📫 How to reach me jutourru@gmail.com
 
 <!---
