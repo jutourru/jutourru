@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jutourru
+- 👋 Hi, I’m Juliana
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate data governance
-- 📫 How to reach me jutourru@gmail.com
+- 💞️ I’m looking for collaborate in data governance
+- 📫 Reach me at [@jutourru](https://www.linkedin.com/in/julianatourrucoo/)
+
 
 <!---
 jutourru/jutourru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
